@@ -1,0 +1,29 @@
+{
+  "name": "mean-stack-blog-2017",
+  "version": "1.0.0",
+  "description": "A Simple MEAN Stack Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "magesa"
+  },
+  "keywords": [
+    "MongoDB",
+    "ExpressJS",
+    "AngularJS",
+    "NodeJS",
+    "Simple",
+    "MEAN",
+    "Blog"
+  ],
+  "author": "Marcel Masaga",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.8"
+  }
+}
